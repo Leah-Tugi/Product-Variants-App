@@ -93,9 +93,9 @@ flutter/material.dart: Standard Flutter material design components for UI elemen
 Contributions are welcome! Please follow these steps to contribute:
 
 # Fork the repository.
-Create a new feature branch (git checkout -b feature-branch-name).
+Create a new feature branch (git checkout -b main).
 Make your changes and commit (git commit -m 'Add feature').
-Push to the branch (git push origin feature-branch-name).
+Push to the branch (git push origin main).
 Create a pull request.
 
 ### Contact
