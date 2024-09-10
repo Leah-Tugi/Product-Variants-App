@@ -48,19 +48,21 @@ Run the App:
 flutter run
 
 Folder Structure
+
 product-variants-app/
+
 │
 ├── lib/
-│   ├── main.dart                # Entry point of the app
+│   ├── main.dart                
 │   ├── screens/
-│   │   ├── product_option_screen.dart   # Screen for adding product options
-│   │   └── product_variant_screen.dart  # Screen for generating and displaying product variants
+│   │   ├── product_option_screen.dart   
+│   │   └── product_variant_screen.dart
 │   ├── widgets/
-│   │   └── variant_row.dart      # Custom widget for displaying a single product variant row
+│   │   └── variant_row.dart     
 │   └── models/
-│       └── product_variant.dart  # (Optional) Model for managing product variant data
-├── pubspec.yaml                  # Dependency manager file
-└── README.md                     # Project readme file
+│       └── product_variant.dart  
+├── pubspec.yaml                  
+└── README.md                    
 
 # How to Use
 Add Product Options:
