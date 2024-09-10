@@ -16,8 +16,6 @@ variants or select/deselect all at once using a bulk selection option.
 
 # Screenshots
 
-# Screenshots
-
 ### Add Product Option Screen
 <img src="assets/sc1.jpeg" alt="Add Product Option Screen" width="200" height="auto"/>
 
