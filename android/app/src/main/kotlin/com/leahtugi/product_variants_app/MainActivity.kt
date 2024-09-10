@@ -1,4 +1,4 @@
-package com.leahtugi.shopify_variants_app
+package com.leahtugi.product_variants_app
 
 import io.flutter.embedding.android.FlutterActivity
 
