@@ -57,6 +57,7 @@ product-variants-app/
 │   ├── screens/
 │   │   ├── product_option_screen.dart   
 │   │   └── product_variant_screen.dart
+
 │   ├── widgets/
 │   │   └── variant_row.dart     
 │   └── models/
