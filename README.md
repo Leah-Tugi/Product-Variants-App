@@ -15,12 +15,14 @@ Select/Deselect Variants: Users can individually select or deselect product
 variants or select/deselect all at once using a bulk selection option.
 
 # Screenshots
+
 ### Add Product Option Screen
-![Add Product Option Screen](assets/sc1.jpeg)
+<img src="assets/sc1.jpeg" alt="Add Product Option Screen" width="400"/>
 
 ### Generated Product Variants Screen
-![Generated Product Variants Screen](assets/sc2.jpeg)
-![Generated Product Variants Screen](assets/sc3.jpeg)
+<img src="assets/sc2.jpeg" alt="Generated Product Variants Screen" width="400"/>
+<img src="assets/sc3.jpeg" alt="Generated Product Variants Screen" width="400"/>
+
 
 # Getting Started
 # Prerequisites
