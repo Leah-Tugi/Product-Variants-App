@@ -17,11 +17,11 @@ variants or select/deselect all at once using a bulk selection option.
 # Screenshots
 
 ### Add Product Option Screen
-<img src="assets/sc1.jpeg" alt="Add Product Option Screen" width="400"/>
+<img src="assets/sc1.jpeg" alt="Add Product Option Screen" width="200"/>
 
 ### Generated Product Variants Screen
-<img src="assets/sc2.jpeg" alt="Generated Product Variants Screen" width="400"/>
-<img src="assets/sc3.jpeg" alt="Generated Product Variants Screen" width="400"/>
+<img src="assets/sc2.jpeg" alt="Generated Product Variants Screen" width="200"/>
+<img src="assets/sc3.jpeg" alt="Generated Product Variants Screen" width="200"/>
 
 
 # Getting Started
